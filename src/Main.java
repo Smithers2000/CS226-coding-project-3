@@ -16,7 +16,6 @@ public class Main {
         long l = findLCM(num1, num2);
 
         if (num1 > 0 && num2 > 0) {
-        //hi
             System.out.println(g);
             System.out.println(l + "\n");
             System.out.printf("Inputs: a = %d, b = %d%n", num1, num2);
